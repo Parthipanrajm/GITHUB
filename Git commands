@@ -1,0 +1,7 @@
+#git init ==> init for git directory in server
+#git status ==> know the history of files
+#git add names.txt ==> file added to repo
+#git commit -m "names.txt file added" ==> commit changes with description
+#git restore --staged
+#git log
+#git reset <hash id>  =>> reset to the old commit and remoce remaining
