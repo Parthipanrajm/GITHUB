@@ -5,3 +5,6 @@
 #git restore --staged
 #git log
 #git reset <hash id>  =>> reset to the old commit and remoce remaining
+#git statsh
+#git stash pop
+#git remote add origin 
